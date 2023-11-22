@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MrKrishSatasiya/Krish_Satasiya_Website/blob/main/static/Cover.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/MrKrishSatasiya/MrKrishSatasiya/blob/main/Cover.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
 <h3 align="center">A passionate frontend developer & Java Application Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-programming_625536-3102.jpg"></img>
