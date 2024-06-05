@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
 <h3 align="center">A Passionate Web Developer & Graphics Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-programming_625536-3102.jpg">
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mrkrishsatasiya&label=Profile%20views&color=0e75b6&style=flat" alt="mrkrishsatasiya" /> 
-  <a href="https://twitter.com/krish_satasiya" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/krish_satasiya?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
 🔭 I’m currently working on Freelancing Projects           
 👯 I’m looking to collaborate on UI / UX Design
 👨‍💻 All of my projects are available at My Portfolio
