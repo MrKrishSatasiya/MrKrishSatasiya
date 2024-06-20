@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mrkrishsatasiya&label=Profile%20views&color=0e75b6&style=flat" alt="mrkrishsatasiya" />
-</p>
-<p align="right">
-  <a href="https://twitter.com/krish_satasiya" target="blank">
-    <img src="https://img.shields.io/twitter/follow/krish_satasiya?logo=twitter&style=for-the-badge" alt="krish_satasiya" />
-  </a>
-</p>
 
-# Hey There! 👋
-**I'm Thijs** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
