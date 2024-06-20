@@ -15,6 +15,16 @@ I'm a fullstack developer, designer, moderator, and high school student based in
 
 [![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd)](https://krishsatasiya.netlify.app/)<br/>
 
+<div>
+  <h4>📷 SOCIAL MEDIA:</h4>
+</div>
+
+[![SkillIcons](https://skillicons.dev/icons?i=linkdin)](https://krishsatasiya.netlify.app/)<br/>[![SkillIcons](https://skillicons.dev/icons?i=linkdin)](https://krishsatasiya.netlify.app/)<br/>
+
+
+
+
+<br></br>
 <details>
   <summary>Github Stats ⚡</summary>
   
