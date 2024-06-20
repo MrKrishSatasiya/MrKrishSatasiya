@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
-
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrkrishsatasiya" alt="mrkrishsatasiya" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mrkrishsatasiya&label=Profile%20views&color=0e75b6&style=flat" alt="mrkrishsatasiya" />
 </p>
 <p align="left">
   <a href="https://twitter.com/krish_satasiya" target="blank">
     <img src="https://img.shields.io/twitter/follow/krish_satasiya?logo=twitter&style=for-the-badge" alt="krish_satasiya" />
   </a>
-</p> - 🔭 I’m currently working on **FullStack WEB Developer** - 🌱 I’m currently learning **Machine Learning & Artifical Inteligence** - 👯 I’m looking to collaborate on **Graphics Designing** - 👨‍💻 All of my projects are available at [https://krishsatasiya.netlify.app/](https://krishsatasiya.netlify.app/) - 📫 How to reach me **krishsatasiya44@gmail.com** - ⚡ Fun fact **#SEE-SOMTHING-NEW #SOME-SOMETHING-TECHY** <h3 align="left">Connect with me:</h3>
+</p> - 🔭 I’m currently working on **FullStack WEB Developer**
+
+- 🌱 I’m currently learning **Machine Learning & Artifical Inteligence**
+
+- 👯 I’m looking to collaborate on **Graphics Designing**
+
+- 👨‍💻 All of my projects are available at [https://krishsatasiya.netlify.app/](https://krishsatasiya.netlify.app/)
+
+- 📫 How to reach me **krishsatasiya44@gmail.com**
+
+- ⚡ Fun fact **#SEE-SOMTHING-NEW #SOME-SOMETHING-TECHY**<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/https://g.dev/krishsatasiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/krishsatasiya" height="30" width="40" />
@@ -36,10 +43,10 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
-  <a href="https://angular.io" target="blank" rel="noreferrer">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
