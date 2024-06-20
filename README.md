@@ -7,7 +7,6 @@ I'm a fullstack developer, designer, moderator, and high school student based in
 <div>
   <h4>👩‍💻 CODING SKILLS:</h4>
 </div>
-<br></br>
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,aws,gcp,bootstrap,css,html,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress)](https://krishsatasiya.netlify.app/)<br/>
 <br></br>
