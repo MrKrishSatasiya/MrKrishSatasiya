@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrkrishsatasiya&label=Profile%20views&color=0e75b6&style=flat" alt="mrkrishsatasiya" />
 </p>
-<p align="left">
+<p align="right">
   <a href="https://twitter.com/krish_satasiya" target="blank">
     <img src="https://img.shields.io/twitter/follow/krish_satasiya?logo=twitter&style=for-the-badge" alt="krish_satasiya" />
   </a>
