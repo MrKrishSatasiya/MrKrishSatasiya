@@ -2,13 +2,13 @@
     <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
     <h3 align="center">A Passionate Web Developer & Graphics Designer from India</h3>
     <div class="content">
-        <img class="profile-pic" alt="Coding" src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-programming_625536-3102.jpg">
-        <p>🔭 I’m currently working on Freelancing Projects</p>
-        <p>👯 I’m looking to collaborate on UI / UX Design</p>
-        <p>👨‍💻 All of my projects are available at My Portfolio</p>
-        <p>💬 Ask me about Frontend Development & Graphic Design</p>
-        <p>📫 How to reach me krishsatasiya44@gmail.com</p>
-        <p>⚡ Fun fact: Technology Is Everything, But Everything Is Not Technology</p>
+        <img  align="center" class="profile-pic" alt="Coding" src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-programming_625536-3102.jpg">
+        <p  align="center">🔭 I’m currently working on Freelancing Projects</p>
+        <p align="center" >👯 I’m looking to collaborate on UI / UX Design</p>
+        <p  align="center">👨‍💻 All of my projects are available at My Portfolio</p>
+        <p  align="center">💬 Ask me about Frontend Development & Graphic Design</p>
+        <p  align="center">📫 How to reach me krishsatasiya44@gmail.com</p>
+        <p  align="center">⚡ Fun fact: Technology Is Everything, But Everything Is Not Technology</p>
     </div>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
