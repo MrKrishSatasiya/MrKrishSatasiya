@@ -31,8 +31,6 @@
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:krishsatasiya44@gmail.com)&nbsp;&nbsp; 
 
 <!-- for update : https://github.com/tandpfun/skill-icons -->  
-
-<br></br>
 <details>
   <summary>Github Stats ⚡</summary>
   
