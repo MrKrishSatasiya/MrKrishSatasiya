@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
 
-I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+I'm a Highly skilled and passionate software engineer with a flair for creating innovative solutions. With a strong background in computer science and programming, I’ve developed a diverse range of technical skills that enable me to tackle complex challenges in software development.
 <br></br>
 <div>
   <h4>👩‍💻 CODING SKILLS:</h4>
