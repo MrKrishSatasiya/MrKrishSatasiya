@@ -7,26 +7,27 @@ I'm a fullstack developer, designer, moderator, and high school student based in
   <h4>👩‍💻 CODING SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,aws,gcp,bootstrap,css,html,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,aws,gcp,bootstrap,css,html,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)](https://krishsatasiya.netlify.app/)<br/>
 
 <div>
   <h4>🎨 CREATIVE SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)](https://krishsatasiya.netlify.app/)<br/>
 
 <div>
   <h4>📷 SOCIAL MEDIA:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/satasiya.krish/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mrkrishsatasiya/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22868652/krish-satasiya)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/Krish_Satasiya)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@mrkrishsatasiya)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=gmail)](krishsatasiya44@gmail.com)&nbsp;&nbsp; 
 
-
-
+<!-- for update : https://github.com/tandpfun/skill-icons -->
 
 <br></br>
 <details>
