@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
 <h3 align="center">A Passionate Web Developer & Graphics Designer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-programming_625536-3102.jpg">
+<img style="text-align= justify;" align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-programming_625536-3102.jpg">
 🔭 I’m currently working on Freelancing Projects           
 👯 I’m looking to collaborate on UI / UX Design
 👨‍💻 All of my projects are available at My Portfolio
