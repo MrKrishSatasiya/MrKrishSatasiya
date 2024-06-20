@@ -146,11 +146,22 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkrishsatasiya&show_icons=true&locale=en&layout=compact" alt="mrkrishsatasiya" />
-</p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkrishsatasiya&show_icons=true&locale=en" alt="mrkrishsatasiya" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkrishsatasiya&" alt="mrkrishsatasiya" />
-</p>
+
+<p align="left">
+  <a href="https://dev.to/https://g.dev/krishsatasiya" target="blank" class="social-link">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/krishsatasiya" height="30" width="40" />
+  </a>
+  </p>
+
+<style>
+  .social-link img {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+  }
+  .social-link img {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+</style>
