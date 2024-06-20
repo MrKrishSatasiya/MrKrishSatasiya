@@ -25,9 +25,9 @@ I'm a fullstack developer, designer, moderator, and high school student based in
 [![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/Krish_Satasiya)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@mrkrishsatasiya)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=gmail)](krishsatasiya44@gmail.com)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:krishsatasiya44@gmail.com)&nbsp;&nbsp; 
 
-<!-- for update : https://github.com/tandpfun/skill-icons -->
+<!-- for update : https://github.com/tandpfun/skill-icons -->  
 
 <br></br>
 <details>
