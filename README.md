@@ -4,8 +4,8 @@
 I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,figma,ae,blender,ai,ps,pr,xd)](https://krishsatasiya.netlify.app/)<br/>
-[![SkillIcons](figma,ae,blender,ai,ps,pr,xd)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,figma,ae,blender,ai,ps,pr,xd)](https://krishsatasiya.netlify.app/)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
