@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Krish Satasiya's Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .content {
-            text-align: justify;
-        }
-        .profile-pic {
-            float: right;
-            width: 400px;
-            margin: 10px;
-        }
-    </style>
-</head>
 <body>
     <h1 align="center">Hi 👋, I'm Krish Satasiya</h1>
     <h3 align="center">A Passionate Web Developer & Graphics Designer from India</h3>
