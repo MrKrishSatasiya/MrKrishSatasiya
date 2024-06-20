@@ -19,7 +19,11 @@ I'm a fullstack developer, designer, moderator, and high school student based in
   <h4>📷 SOCIAL MEDIA:</h4>
 </div>
 
-[![SkillIcons &nbsp;](https://skillicons.dev/icons?i=instagram)](https://krishsatasiya.netlify.app/)[![SkillIcons &nbsp;](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
 
 
 
