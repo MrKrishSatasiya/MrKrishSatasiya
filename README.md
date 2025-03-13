@@ -10,7 +10,7 @@
   <h4>👩‍💻 CODING SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,sketchup,threejs,ts,ubuntu,bootstrap,firebase,flutter,git,github,kotlin,mysql,php,nodejs,express,gitlab,java,netlify,npm,vercel,webflow,bitbucket,wordpress,visualstudio,vscode)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,cpp,c,java,kotlin,php,mysql,html,css,tailwind,bootstrap,vue,react,angular,threejs,nodejs,express,mongodb,firebase,docker,aws,gcp,azure,vercel,netlify,git,github,gitlab,bitbucket,npm,vscode,visualstudio,flutter,androidstudio,ubuntu,wordpress,webflow,sketchup)](https://krishsatasiya.netlify.app/)
 
 <div>
   <h4>🎨 CREATIVE SKILLS:</h4>
