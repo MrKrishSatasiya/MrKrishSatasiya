@@ -10,13 +10,13 @@
   <h4>👩‍💻 Tech Stack & Expertise:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,cpp,c,java,kotlin,php,mysql,html,css,tailwind,bootstrap,vue,react,angular,threejs,nodejs,express,mongodb,firebase,docker,aws,gcp,azure,vercel,netlify,git,github,gitlab,bitbucket,npm,vscode,visualstudio,flutter,androidstudio,ubuntu,wordpress,webflow)](https://krishsatasiya.netlify.app/)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,py,cpp,c,java,kotlin,php,mysql,html,css,tailwind,bootstrap,sass,vue,react,nextjs,angular,threejs,nodejs,express,mongodb,graphql,redis,firebase,postgres,docker,aws,gcp,azure,vercel,netlify,git,github,gitlab,bitbucket,npm,linux,ubuntu,vscode,visualstudio,postman,jest,redux,flutter,androidstudio,wordpress,webflow)](https://krishsatasiya.netlify.app/)
 
 <div>
   <h4>🎨 CREATIVE SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg,sketchup)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg,sketchup)](https://krishsatasiya.netlify.app/)  
 
 <div>
   <h4>📷 SOCIAL MEDIA:</h4>
