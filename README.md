@@ -92,14 +92,14 @@ I'm always eager to connect with fellow professionals, developers, designers, an
   <h4>📷 SOCIAL MEDIA:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mrkrishsatasiya/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/satasiya.krish/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/Krish_Satasiya)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22868652/krish-satasiya)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/satasiyakrish1/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/satasiyakrish1/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/satasiyakrish1)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22868652/satasiyakrish1)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=codepen)]()&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@mrkrishsatasiya)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=notion)]()&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@satasiyakrish1)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=notion)](https://krishsatasiya.netlify.app/)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:krishsatasiya44@gmail.com)&nbsp;&nbsp; 
 
 
