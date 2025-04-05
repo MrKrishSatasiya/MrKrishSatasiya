@@ -66,9 +66,6 @@ I'm always eager to connect with fellow professionals, developers, designers, an
 
 ---
 
-
----
-
 ## 🏆 Honors & Awards
 
 - 🥇 **Winner - RHA India Challenge 2024**
